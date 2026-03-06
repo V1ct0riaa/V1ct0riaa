@@ -22,3 +22,16 @@ Currently, I’m focusing on improving my skills in **software engineering and d
 - Fullstack Development
 - Software architecture
 - Data Structure Algorithms
+
+---
+
+## Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,java,spring,mongodb,postgres" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,postman,figma" />
+</p>
+
+<hr>
