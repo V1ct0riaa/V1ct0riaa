@@ -29,7 +29,7 @@ Currently, I’m focusing on improving my skills in **software engineering and d
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,java,spring,mongodb,postgres" />
+  <img src="https://skillicons.dev/icons?i=python,django,java,spring,node,express,mongodb,postgres" />
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,postman,figma" />
 </p>
 
